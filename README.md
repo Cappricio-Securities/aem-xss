@@ -1,7 +1,5 @@
-# aem-xss
-Adobe Experience Manager Childlist Selector - Cross-Site Scripting
 <div align="center">
-  <img src="https://blogs.cappriciosec.com/uploaders/aem-xss.png" alt="logo">
+  <img src="https://blogs.cappriciosec.com/uploaders/aem-xss-tool.png" alt="logo">
 </div>
 
 
