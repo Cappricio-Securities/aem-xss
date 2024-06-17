@@ -64,7 +64,7 @@
       - ```bash
           aem-xss -i urls.txt -o out.txt
         ```
-   - Want to Learn about [`aem-xss`](https://blogs.cappriciosec.com/cve/147/Understanding%20and%20Mitigating%20CVE-2023-27524%20in%20Apache%20Superset)? Then Type Below command
+   - Want to Learn about [`aem-xss`](https://blogs.cappriciosec.com/blog/190/aem-xss)? Then Type Below command
       - ```bash
          aem-xss -b
         ```
@@ -80,7 +80,7 @@
 
 ## Working PoC Video
 
-[![asciicast](https://blogs.cappriciosec.com/uploaders/Screenshot%202024-05-19%20at%204.06.05%20PM.png)](https://asciinema.org/a/4nmo0aZz23UBwjCGZaYzWFq9k)
+[![asciicast](https://blogs.cappriciosec.com/uploaders/Screenshot%202024-06-17%20at%202.38.35%20PM.png)](https://asciinema.org/a/2pdaUbFFEARv6ywnte3UVkELE)
 
 
 
